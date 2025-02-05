@@ -1,1 +1,1 @@
-# sql-to-pandas
+# SQL-to-Pandas
